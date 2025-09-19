@@ -1,0 +1,37 @@
+---
+baseurl: "/"
+theme: "stage"
+metaDataFormat: "yaml"
+params:
+
+  # Website information
+  title: "Baby Band"
+  subtitle: "Brains, beauty, ass"
+  coverimage: "/images/stage.jpg"
+
+  # Social information
+  social:
+    instagram: "https://www.instagram.com/_baby.band/"
+    soundcloud: "http://soundcloud.com/"
+    reverbnation: "http://reverbnation.com/"
+    contact: "/"
+
+  # Artist information
+  authors:
+    stage:
+      name: "Stage"
+      description: "Enter an artist description here."
+      image: "/images/avatar.png"
+      link: "/"
+
+  # Navbar links
+  navbar:
+    blog: "/post/"
+    bio: "/"
+    music: "/album/"
+    events: "/event/"
+    media: "/media/"
+
+  fonts: "Lato:300,500,700"
+  maps: "true"
+---

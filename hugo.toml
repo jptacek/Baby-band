@@ -1,0 +1,4 @@
+baseURL = 'https://brainsass.beauty/'
+languageCode = 'en-us'
+title = 'Baby Band'
+theme = 'stage'
