@@ -1,0 +1,20 @@
+---
+title: "Baby!"
+date: 2024-09-21
+map:
+  lat: 43.07520904346562
+  long: -89.3810633158604
+  heading: 55
+  zoom: 15
+event:
+  location: "Empty Bottle"
+  date: "October 10, 2025"
+  time: "8:00 PM"
+excerpt: "Join Baby Band for an unforgettable night of music."
+description: "An evening of jams"
+author: "Henry"
+---
+
+Join us for an incredible live performance featuring our latest songs plus some classic covers. Doors open at 7:30 PM.
+
+Tickets available at the door or online.
